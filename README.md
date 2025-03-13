@@ -11,11 +11,9 @@ Sou apaixonado por desenvolvimento web e estou constantemente aprimorando minhas
 ### **💻 Frontend**
 - React.js | Next.js | Tailwind CSS | TypeScript  
 - Styled-Components | Chakra UI  
-- React Hook Form | Zod  
 
 ### **⚙️ Backend & Banco de Dados**
-- Node.js | Express.js  
-- Prisma ORM | MySQL | PostgreSQL  
+- Node.js | Express.js
 
 ### **🔧 Ferramentas & Outras Tecnologias**
 - Git & GitHub | Figma | Vercel | Netlify  
@@ -49,7 +47,7 @@ Sou apaixonado por desenvolvimento web e estou constantemente aprimorando minhas
 
 🔗 **LinkedIn:** [Gabriel Reis Cunha](https://www.linkedin.com/in/gabrielreiscunha/)  
 🌎 **Portfólio:** [gabrielreis354.github.io/gabriel-portfolio](https://gabrielreis354.github.io/gabriel-portfolio)  
-📩 **E-mail:** gabriel.reiscunha@email.com  
+📩 **E-mail:** gabrielreiscunha6@gmail.com  
 
 💬 Estou sempre aberto a trocar ideias, colaborar em projetos ou discutir oportunidades! 😃  
 
