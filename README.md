@@ -26,7 +26,7 @@ Sou apaixonado por desenvolvimento web e estou constantemente aprimorando minhas
 
 🔹 **Dashboard UI - Interface para Painel de Controle**  
 📂 [Repositório GitHub](https://github.com/gabrielreis354/dashboard-ui)  
-🚀 *Em breve hospedado*  
+🌍 [Acesse o projeto](https://dashboard-tailwindnext.netlify.app) 
 
 🔹 **EcoCycle Manager - Gestão de Resíduos Inteligente**  
 📂 [Repositório GitHub](https://github.com/gabrielreis354/ecocycle_manager)  
